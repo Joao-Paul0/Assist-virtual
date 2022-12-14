@@ -1,5 +1,5 @@
 # Sobre
-A aplicação se trata de uma assistente virtual, como a Alexa, por exemplo. Desenvolvi durante o curso de técnico de informática.
+A aplicação se trata de uma assistente virtual simples, como a Alexa, por exemplo. Desenvolvi durante o curso de técnico de informática.
 
 # Como funciona?
 Para funcionar os comandos de voz, você precisa específicar os caminho para chegar num executável(por exemplo "chrome.exe") que você queira que o Jarvis executa/obedeça, por exemplo:
@@ -21,13 +21,13 @@ pip install pyttsx3
 ```
 **Speech_recognition** 
 ```bash
-pip install pip install SpeechRecognition
+pip install SpeechRecognition
 ```
 **Secure-smtplib** 
 ```bash
-pip install pip install secure-smtplib
+pip install secure-smtplib
 ```
 **Pyaudio** 
 ```bash
-pip install pip install PyAudio
+pip install PyAudio
 ```
